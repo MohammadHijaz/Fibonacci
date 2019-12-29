@@ -1,0 +1,1 @@
+This is my code for Fibonacci sequence. I am doing to get a better understanding of JavaScript.
